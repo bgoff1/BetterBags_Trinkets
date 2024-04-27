@@ -27,10 +27,3 @@ categories:RegisterCategoryFunction("TrinketCategoryFilter", function(data)
 
     return nil
 end)
-
--- function printtable(table, indent)
---   print(tostring(table) .. '\n')
---   for index, value in pairs(table) do 
---     print('    ' .. tostring(index) .. ' : ' .. tostring(value) .. '\n')
---   end
--- end

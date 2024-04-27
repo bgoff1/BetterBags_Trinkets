@@ -4,6 +4,7 @@
 ## Author: Judah
 ## Version: 1.0.0
 ## Dependencies: BetterBags
-## X-Curse-Project-ID: 979171
+## IconTexture: 133282
+## X-Curse-Project-ID: 1009876
 
 BetterBags_Trinkets.lua
