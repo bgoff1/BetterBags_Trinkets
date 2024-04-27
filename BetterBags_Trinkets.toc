@@ -1,0 +1,9 @@
+## Interface: 100206
+## Title: BetterBags - Trinkets
+## Notes: Adds a Trinkets items filter to BetterBags.
+## Author: Judah
+## Version: 1.0.0
+## Dependencies: BetterBags
+## X-Curse-Project-ID: 979171
+
+BetterBags_Trinkets.lua
